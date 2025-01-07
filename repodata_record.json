@@ -1,0 +1,23 @@
+{
+  "build": "py312h827c3e9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "idna >=2.0",
+    "multidict >=4.0",
+    "python >=3.12,<3.13.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "fn": "yarl-1.11.0-py312h827c3e9_0.conda",
+  "license": "Apache-2.0",
+  "md5": "f43be518d916ba63e22d536835570e6f",
+  "name": "yarl",
+  "sha256": "0028bbe1d08874ac66025710c9e9ce0750a70a08a478977a72b96f8c33e225dd",
+  "size": 156048,
+  "subdir": "win-64",
+  "timestamp": 1726016271000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/yarl-1.11.0-py312h827c3e9_0.conda",
+  "version": "1.11.0"
+}
